@@ -1,0 +1,30 @@
+.container_app{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.btn_container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.titulo {
+  color: aliceblue;
+  font-size: 56px;
+  font-weight: bold;
+}
+
+.author {
+  color: rgb(255, 255, 255);
+  font-size: 28px;
+  font-weight: bold;
+}
+
